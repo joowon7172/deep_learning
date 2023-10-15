@@ -1,0 +1,52 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.11.4",
+    "heartbeatAt": "2023-10-15T11:23:56.051362",
+    "startedAt": "2023-10-15T11:23:55.028276",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "deep_learning/HW2/HW_2.ipynb",
+    "codePathLocal": null,
+    "root": "C:/Users/joowo",
+    "git": {
+        "remote": "https://github.com/joowon7172/coding_space",
+        "commit": null
+    },
+    "email": "joowon7172@naver.com",
+    "host": "LAPTOP-HBTVR7AG",
+    "username": "joowon",
+    "executable": "C:\\Users\\joowo\\anaconda3\\python.exe",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2803.0,
+        "min": 0.0,
+        "max": 2803.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2803.0,
+            "min": 0.0,
+            "max": 2803.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 458.30566024780273,
+            "used": 257.752986907959
+        }
+    },
+    "gpu": "GeForce MX450",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "GeForce MX450",
+            "memory_total": 2147483648
+        }
+    ],
+    "memory": {
+        "total": 15.680793762207031
+    }
+}
